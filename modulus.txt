@@ -1,0 +1,1 @@
+Modulus is done using the '%' operator. It returns the remainder after division.
