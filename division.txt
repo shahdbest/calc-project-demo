@@ -1,0 +1,1 @@
+Divison is done using the '/' operator. It returns the quotient of the operation.
